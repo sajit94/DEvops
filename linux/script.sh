@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello github"
+echo "Hello, updated from  github"
