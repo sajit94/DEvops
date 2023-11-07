@@ -1,5 +1,4 @@
 
 #!/bin/bash
-<<<<<<< HEAD
-echo "Hello, updated from  github"
 
+echo "Hello, updated from  github"
